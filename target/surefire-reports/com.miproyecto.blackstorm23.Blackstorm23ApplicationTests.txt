@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.miproyecto.blackstorm23.Blackstorm23ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 61.225 s - in com.miproyecto.blackstorm23.Blackstorm23ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.671 s - in com.miproyecto.blackstorm23.Blackstorm23ApplicationTests
