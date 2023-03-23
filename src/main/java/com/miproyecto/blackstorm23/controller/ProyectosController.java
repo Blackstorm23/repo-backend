@@ -36,9 +36,8 @@ public class ProyectosController {
     }
     
     @PostMapping("/crear")
-    public String crear(@RequestBody Proyectos proy){
+    public void crear(@RequestBody Proyectos proy){
         proServ.crear(proy);
-        return "El proyecto fue creado correctamente";
     }
     
     @DeleteMapping("/borrar/{id}")
